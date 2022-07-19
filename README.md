@@ -1,16 +1,21 @@
-### Hi there 👋
+### 😄 Hi I'm Alberto Giuseppe👋
+<hr/>
 
-<!--
-**Giuxpro/Giuxpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨
+​​I am a Full Stack developer passionate about technology, I like to be constantly learning, I am self-taught and I like to work in a team, I am pleased to help people whenever I can, I consider myself a committed person, I love and am passionate about programming and one One of the most versatile languages that I had the pleasure of learning was JavaScript, other associated technologies that I also like and that I continue to learn because of the wonderful things that you can create are React and NodeJS among other technologies that I would love to learn and that are on my list for a continue to growing as a professional in this area ​​🌱
+✨
 
-Here are some ideas to get you started:
+### ⚡Skills⚡
+- ⚡HTML.
+- ⚡CSS.
+- ⚡JavaScript.
+- ⚡React.
+- ⚡Redux.
+- ⚡NodeJS.
+- ⚡Express.
+- ⚡PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- 📩 AlbertoGiusepp@gmail.com. 
+- 📤 https://www.linkedin.com/in/giu-dev/
+
