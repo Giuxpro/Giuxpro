@@ -22,6 +22,7 @@
 - ⚡NodeJS.
 - ⚡Express.
 - ⚡PostgreSQL.
+- ⚡MongoDB.
 
 ### 📫 How to reach me:
 - 📩 AlbertoGiusepp@gmail.com. 
