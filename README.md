@@ -1,28 +1,24 @@
 ### 😄 Hi I'm Alberto Giuseppe👋
 <hr/>
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+Software+developer">
 ✨
-​​I am a Full Stack developer passionate about technology, I like to be constantly learning, I am self-taught and I like to work in a team, I am pleased to help people whenever I can, I consider myself a committed person, I love and am passionate about programming and one One of the most versatile languages that I had the pleasure of learning was JavaScript, other associated technologies that I also like and that I continue to learn because of the wonderful things that you can create are React and NodeJS among other technologies that I would love to learn and that are on my list for a continue to growing as a professional in this area ​​🌱
++3 years of experience developing web applications using technologies such as Node.js, Express.js,
+React.js, Redux, Vue.js, among others. I am a committed person, and I also like teamwork, generating ideas and being proactive. I see myself in the future as an ally willing to train and form teams that impact the market and are willing to generate solutions.
+
+Technologies:
+⚡Backend > Node.Js | Express | Nest.Js
+⚡Frontend > React | React Native | Next.Js | Redux | Vue.Js | Vuex | Vuetify | Material ui
+⚡DataBase > PostgreSQL | MongoDB | RDS
+⚡Orm > Sequelize | Mongoose | Prisma
+⚡Cloud > AWS | Digital Ocean
+⚡Others > Docker | Grafana | Prometheus | loki | Microservices
+
+Contact: 👇
+📱Wpp: https://wa.me/+51922276249 
+✉️ Email: albertogiusepp@gmail.com
+🚀 https://github.com/Giuxpro​​🌱
 ✨
 
-- 🔭 El ultimo proyecto en el que estuve trabajando fue [**HenryMatch**](https://henry-front.vercel.app/)
-
-- 👌 He terminado mi Proyecto Individual [Pokemon APP](https://pi-pokemons-plum.vercel.app/)
-
-- 🌱 Otro proyecto individual en el que trabaje [GiuxGames](https://pi-video-games-rho.vercel.app/)
-
-- 👨‍💻Todos mis proyectos están disponibles en [https://github.com/Giuxpro?tab=repositories](https://github.com/Giuxpro?tab=repositories)
-
-### ⚡Skills⚡
-- ⚡HTML.
-- ⚡CSS.
-- ⚡JavaScript.
-- ⚡React.
-- ⚡Redux.
-- ⚡NodeJS.
-- ⚡Express.
-- ⚡PostgreSQL.
-- ⚡MongoDB.
 
 ### 📫 How to reach me:
 - 📩 AlbertoGiusepp@gmail.com. 
