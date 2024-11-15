@@ -7,17 +7,22 @@ React.js, Redux, Vue.js, among others. I am a committed person, and I also like 
 
 Technologies:
 ⚡Backend > Node.Js | Express | Nest.Js
+<br>
 ⚡Frontend > React | React Native | Next.Js | Redux | Vue.Js | Vuex | Vuetify | Material ui
+<br>
 ⚡DataBase > PostgreSQL | MongoDB | RDS
+<br>
 ⚡Orm > Sequelize | Mongoose | Prisma
+<br>
 ⚡Cloud > AWS | Digital Ocean
+<br>
 ⚡Others > Docker | Grafana | Prometheus | loki | Microservices
 
 
 ### 📫 How to reach me:
-📱Wpp: https://wa.me/+51922276249 
-✉️ Email: albertogiusepp@gmail.com
-🚀 https://github.com/Giuxpro​​
+📱Wpp: https://wa.me/+51922276249 <br>
+✉️ Email: albertogiusepp@gmail.com <br>
+🚀 https://github.com/Giuxpro​​ <br>
 
 <h2 align="center">⚡Some other tools I use⚡</h2>
 <br>
