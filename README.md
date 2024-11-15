@@ -37,7 +37,7 @@ Technologies:
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="https://expressjs.com/" target="_blank"><img width="48" height="48" src="https://media.licdn.com/dms/image/D5612AQHkpTFr4Ehbzg/article-cover_image-shrink_720_1280/0/1699970998525?e=2147483647&v=beta&t=4ym1XhvUf6JOVoogTm-m5XMSrz9j482Zdo1axxjQoFI"/></a>
 <a href="https://sequelize.org/" target="_blank"><img width="40px" src="https://s2.qwant.com/thumbr/0x380/f/1/def6e5a6cedacd5856251aeaef7e52119bf19a4f70ada987080f4a3db8e074/sequelize-logo-png-transparent.png?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fsequelize-logo-png-transparent.png&q=0&b=1&p=0&a=0"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img width="48" height="48" src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img width="48" height="48" src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
