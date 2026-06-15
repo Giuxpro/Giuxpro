@@ -21,7 +21,6 @@ Technologies:
 
 
 ### 📫 How to reach me:
-📱Wpp: https://wa.me/+51922276249 <br>
 ✉️ Email: albertogiusepp@gmail.com <br>
 🚀 Linkedin: https://www.linkedin.com/in/giu-dev/​​ <br>
 
